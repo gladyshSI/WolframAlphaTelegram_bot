@@ -15,7 +15,7 @@ Telegram bot can also work in inline mode, but in this case it sends only a shor
 Tested on Ubuntu:
 1. ```sudo apt-get update```
 3. ```sudo apt-get upgrade```  
-Check that ```ngrok_deploy.sh``` and ```run.sh``` are runable:
+Check that ```ngrok_deploy.sh``` and ```run.sh``` are runnable:
 3. ```chmod +x ngrok_deploy.sh```
 4. ```chmod +x run.sh```  
 > If you want to test it with ngrok:  
