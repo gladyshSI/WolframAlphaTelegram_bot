@@ -1,12 +1,16 @@
 # WolframAlphaTelegram_bot
 Telegram bot using Wolfram alpha API 
+## About
+This Telegram Bot accepts your request and sends a short text response and pictures with the results provided by the Wolpram API.  
+Telegram bot can also work in inline mode, but in this case it sends only a short text response.  
+## Examples of usage
 
-### How to start up
+## How to start up
 0. Add telegram bot token in /keys/telegram_token.txt  
    Add Wolfram AppID in /keys/wolfram_key.txt  
    Add Server URL in /keys/url.txt  
    
-For Ubunta:
+Tested on Ubuntu:
 1. ```sudo apt-get update```
 3. ```sudo apt-get upgrade```  
 Check that ```ngrok_deploy.sh``` and ```run.sh``` are runable:
