@@ -4,8 +4,7 @@ Telegram bot using Wolfram alpha API
 This Telegram Bot accepts your request and sends a short text response and pictures with the results provided by the Wolpram API.  
 Telegram bot can also work in inline mode, but in this case it sends only a short text response.  
 ## Usage Examples
-![Alt text](static/images/1.jpg?raw=true "Private messages")
-![Alt text](static/images/2.jpg?raw=true "Private messages")
+![Alt text](static/images/1.jpg?raw=true "Private messages",  width="800")
 ![Alt text](static/images/3.jpg?raw=true "Inline mod")
 ## How to start up
 0. Add telegram bot token in /keys/telegram_token.txt  
