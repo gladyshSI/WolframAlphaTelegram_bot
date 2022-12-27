@@ -11,7 +11,7 @@ For Ubunta:
 3. ```sudo apt-get upgrade```  
 Check that ```ngrok_deploy.sh``` and ```run.sh``` are runable:
 3. ```chmod +x ngrok_deploy.sh```
-4. ```chmod +x run.sh```
+4. ```chmod +x run.sh```  
 If you want to test it with ngrok:  
       Register on the [website](https://dashboard.ngrok.com/get-started/setup)  
       Add authtoken in /keys/ngrok_token.txt  
