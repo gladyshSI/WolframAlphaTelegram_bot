@@ -1,6 +1,7 @@
 # WolframAlphaTelegram_bot
 Telegram bot using Wolfram alpha API 
 ## About
+You can find this bot [here](https://t.me/WFAlfa_bot).
 This Telegram Bot accepts your request and sends a short text response and pictures with the results provided by the Wolpram API.  
 Telegram bot can also work in inline mode, but in this case it sends only a short text response.  
 ## Usage Examples
